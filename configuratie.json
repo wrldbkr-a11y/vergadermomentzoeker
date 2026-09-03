@@ -1,0 +1,4573 @@
+{
+  "fileName": "1september.TXT",
+  "uploadedAt": "3/9/2026, 13:19:28",
+  "teachers": {
+    "VVS": {
+      "naam": "VVS",
+      "afkorting": "VVS",
+      "coordinator": false
+    },
+    "DDA": {
+      "naam": "DDA",
+      "afkorting": "DDA",
+      "coordinator": false
+    },
+    "ZGodsd": {
+      "naam": "ZGodsd",
+      "afkorting": "ZGodsd",
+      "coordinator": false
+    },
+    "SJ": {
+      "naam": "SJ",
+      "afkorting": "SJ",
+      "coordinator": false
+    },
+    "LV": {
+      "naam": "LV",
+      "afkorting": "LV",
+      "coordinator": false
+    },
+    "HI": {
+      "naam": "HI",
+      "afkorting": "HI",
+      "coordinator": false
+    },
+    "GS": {
+      "naam": "GS",
+      "afkorting": "GS",
+      "coordinator": false
+    },
+    "BIS": {
+      "naam": "BIS",
+      "afkorting": "BIS",
+      "coordinator": false
+    },
+    "PK": {
+      "naam": "PK",
+      "afkorting": "PK",
+      "coordinator": false
+    },
+    "DSS": {
+      "naam": "DSS",
+      "afkorting": "DSS",
+      "coordinator": false
+    },
+    "BM": {
+      "naam": "BM",
+      "afkorting": "BM",
+      "coordinator": false
+    },
+    "VSE": {
+      "naam": "VSE",
+      "afkorting": "VSE",
+      "coordinator": false
+    },
+    "VDBL": {
+      "naam": "VDBL",
+      "afkorting": "VDBL",
+      "coordinator": false
+    },
+    "VDPN": {
+      "naam": "VDPN",
+      "afkorting": "VDPN",
+      "coordinator": false
+    },
+    "OM": {
+      "naam": "OM",
+      "afkorting": "OM",
+      "coordinator": false
+    },
+    "RSA": {
+      "naam": "RSA",
+      "afkorting": "RSA",
+      "coordinator": false
+    },
+    "SOL": {
+      "naam": "SOL",
+      "afkorting": "SOL",
+      "coordinator": false
+    },
+    "NM": {
+      "naam": "NM",
+      "afkorting": "NM",
+      "coordinator": false
+    },
+    "ZNM": {
+      "naam": "ZNM",
+      "afkorting": "ZNM",
+      "coordinator": false
+    },
+    "DCI": {
+      "naam": "DCI",
+      "afkorting": "DCI",
+      "coordinator": false
+    },
+    "VRM": {
+      "naam": "VRM",
+      "afkorting": "VRM",
+      "coordinator": false
+    },
+    "LY": {
+      "naam": "LY",
+      "afkorting": "LY",
+      "coordinator": false
+    },
+    "DCA": {
+      "naam": "DCA",
+      "afkorting": "DCA",
+      "coordinator": false
+    },
+    "DZP": {
+      "naam": "DZP",
+      "afkorting": "DZP",
+      "coordinator": false
+    },
+    "RK": {
+      "naam": "RK",
+      "afkorting": "RK",
+      "coordinator": false
+    },
+    "SA": {
+      "naam": "SA",
+      "afkorting": "SA",
+      "coordinator": false
+    },
+    "DPE": {
+      "naam": "DPE",
+      "afkorting": "DPE",
+      "coordinator": false
+    },
+    "DHV": {
+      "naam": "DHV",
+      "afkorting": "DHV",
+      "coordinator": false
+    },
+    "FA": {
+      "naam": "FA",
+      "afkorting": "FA",
+      "coordinator": false
+    },
+    "MBO": {
+      "naam": "MBO",
+      "afkorting": "MBO",
+      "coordinator": false
+    },
+    "ME": {
+      "naam": "ME",
+      "afkorting": "ME",
+      "coordinator": false
+    },
+    "DMG": {
+      "naam": "DMG",
+      "afkorting": "DMG",
+      "coordinator": false
+    },
+    "VDA": {
+      "naam": "VDA",
+      "afkorting": "VDA",
+      "coordinator": false
+    },
+    "STL": {
+      "naam": "STL",
+      "afkorting": "STL",
+      "coordinator": false
+    },
+    "VHL": {
+      "naam": "VHL",
+      "afkorting": "VHL",
+      "coordinator": false
+    },
+    "CG": {
+      "naam": "CG",
+      "afkorting": "CG",
+      "coordinator": false
+    },
+    "HS": {
+      "naam": "HS",
+      "afkorting": "HS",
+      "coordinator": false
+    },
+    "VDLC": {
+      "naam": "VDLC",
+      "afkorting": "VDLC",
+      "coordinator": false
+    },
+    "CJ": {
+      "naam": "CJ",
+      "afkorting": "CJ",
+      "coordinator": false
+    },
+    "VES": {
+      "naam": "VES",
+      "afkorting": "VES",
+      "coordinator": false
+    },
+    "DPV": {
+      "naam": "DPV",
+      "afkorting": "DPV",
+      "coordinator": false
+    },
+    "DBR": {
+      "naam": "DBR",
+      "afkorting": "DBR",
+      "coordinator": false
+    },
+    "BS": {
+      "naam": "BS",
+      "afkorting": "BS",
+      "coordinator": false
+    },
+    "HE": {
+      "naam": "HE",
+      "afkorting": "HE",
+      "coordinator": false
+    },
+    "BI": {
+      "naam": "BI",
+      "afkorting": "BI",
+      "coordinator": false
+    },
+    "ZBI": {
+      "naam": "ZBI",
+      "afkorting": "ZBI",
+      "coordinator": false
+    },
+    "VDBH": {
+      "naam": "VDBH",
+      "afkorting": "VDBH",
+      "coordinator": false
+    },
+    "VEJ": {
+      "naam": "VEJ",
+      "afkorting": "VEJ",
+      "coordinator": false
+    },
+    "MB": {
+      "naam": "MB",
+      "afkorting": "MB",
+      "coordinator": false
+    },
+    "VDVJ": {
+      "naam": "VDVJ",
+      "afkorting": "VDVJ",
+      "coordinator": false
+    },
+    "VSA": {
+      "naam": "VSA",
+      "afkorting": "VSA",
+      "coordinator": false
+    },
+    "VMOA": {
+      "naam": "VMOA",
+      "afkorting": "VMOA",
+      "coordinator": false
+    },
+    "LT": {
+      "naam": "LT",
+      "afkorting": "LT",
+      "coordinator": false
+    },
+    "ZLT": {
+      "naam": "ZLT",
+      "afkorting": "ZLT",
+      "coordinator": false
+    },
+    "NA": {
+      "naam": "NA",
+      "afkorting": "NA",
+      "coordinator": false
+    },
+    "VHE": {
+      "naam": "VHE",
+      "afkorting": "VHE",
+      "coordinator": false
+    },
+    "VA": {
+      "naam": "VA",
+      "afkorting": "VA",
+      "coordinator": false
+    },
+    "VT": {
+      "naam": "VT",
+      "afkorting": "VT",
+      "coordinator": false
+    },
+    "LE": {
+      "naam": "LE",
+      "afkorting": "LE",
+      "coordinator": false
+    },
+    "VEV": {
+      "naam": "VEV",
+      "afkorting": "VEV",
+      "coordinator": false
+    },
+    "CON": {
+      "naam": "CON",
+      "afkorting": "CON",
+      "coordinator": false
+    },
+    "NS": {
+      "naam": "NS",
+      "afkorting": "NS",
+      "coordinator": false
+    },
+    "VDEST": {
+      "naam": "VDEST",
+      "afkorting": "VDEST",
+      "coordinator": false
+    },
+    "SI": {
+      "naam": "SI",
+      "afkorting": "SI",
+      "coordinator": false
+    },
+    "WK": {
+      "naam": "WK",
+      "afkorting": "WK",
+      "coordinator": false
+    },
+    "SS": {
+      "naam": "SS",
+      "afkorting": "SS",
+      "coordinator": false
+    },
+    "CN": {
+      "naam": "CN",
+      "afkorting": "CN",
+      "coordinator": false
+    },
+    "DLO": {
+      "naam": "DLO",
+      "afkorting": "DLO",
+      "coordinator": false
+    },
+    "ZVGDJ": {
+      "naam": "ZVGDJ",
+      "afkorting": "ZVGDJ",
+      "coordinator": false
+    },
+    "WZ": {
+      "naam": "WZ",
+      "afkorting": "WZ",
+      "coordinator": false
+    },
+    "NAN": {
+      "naam": "NAN",
+      "afkorting": "NAN",
+      "coordinator": false
+    },
+    "DCS": {
+      "naam": "DCS",
+      "afkorting": "DCS",
+      "coordinator": false
+    },
+    "VDG": {
+      "naam": "VDG",
+      "afkorting": "VDG",
+      "coordinator": false
+    },
+    "DMJ": {
+      "naam": "DMJ",
+      "afkorting": "DMJ",
+      "coordinator": false
+    },
+    "HAI": {
+      "naam": "HAI",
+      "afkorting": "HAI",
+      "coordinator": false
+    },
+    "ZLJ": {
+      "naam": "ZLJ",
+      "afkorting": "ZLJ",
+      "coordinator": false
+    },
+    "SAM": {
+      "naam": "SAM",
+      "afkorting": "SAM",
+      "coordinator": false
+    },
+    "GM": {
+      "naam": "GM",
+      "afkorting": "GM",
+      "coordinator": false
+    },
+    "LMA": {
+      "naam": "LMA",
+      "afkorting": "LMA",
+      "coordinator": false
+    },
+    "MM": {
+      "naam": "MM",
+      "afkorting": "MM",
+      "coordinator": false
+    },
+    "TE": {
+      "naam": "TE",
+      "afkorting": "TE",
+      "coordinator": false
+    },
+    "ZSAM": {
+      "naam": "ZSAM",
+      "afkorting": "ZSAM",
+      "coordinator": false
+    },
+    "DVA": {
+      "naam": "DVA",
+      "afkorting": "DVA",
+      "coordinator": false
+    },
+    "CE": {
+      "naam": "CE",
+      "afkorting": "CE",
+      "coordinator": false
+    },
+    "DAD": {
+      "naam": "DAD",
+      "afkorting": "DAD",
+      "coordinator": false
+    },
+    "VDESA": {
+      "naam": "VDESA",
+      "afkorting": "VDESA",
+      "coordinator": false
+    },
+    "MI": {
+      "naam": "MI",
+      "afkorting": "MI",
+      "coordinator": false
+    },
+    "TS": {
+      "naam": "TS",
+      "afkorting": "TS",
+      "coordinator": false
+    },
+    "MARS": {
+      "naam": "MARS",
+      "afkorting": "MARS",
+      "coordinator": false
+    },
+    "ZTechn": {
+      "naam": "ZTechn",
+      "afkorting": "ZTechn",
+      "coordinator": false
+    },
+    "AE": {
+      "naam": "AE",
+      "afkorting": "AE",
+      "coordinator": false
+    },
+    "JL": {
+      "naam": "JL",
+      "afkorting": "JL",
+      "coordinator": false
+    }
+  },
+  "schedule": {
+    "VVS": {
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "5": "bezet",
+          "7": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet"
+        },
+        "afwezig": false
+      },
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "7": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet"
+        },
+        "afwezig": false
+      }
+    },
+    "DDA": {
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "8": "bezet",
+          "9": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "ZGodsd": {
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "maandag": {
+        "uren": {
+          "8": "bezet",
+          "9": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "6": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "SJ": {
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "4": "bezet",
+          "8": "bezet",
+          "9": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "2": "bezet",
+          "6": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "LV": {
+      "dinsdag": {
+        "uren": {
+          "2": "bezet",
+          "3": "bezet",
+          "5": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "maandag": {
+        "uren": {
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet",
+          "9": "bezet"
+        },
+        "afwezig": false
+      }
+    },
+    "HI": {
+      "woensdag": {
+        "uren": {
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "2": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "maandag": {
+        "uren": {
+          "7": "bezet",
+          "8": "bezet",
+          "9": "bezet"
+        },
+        "afwezig": false
+      }
+    },
+    "GS": {
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "maandag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "BIS": {
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {},
+        "afwezig": true
+      },
+      "vrijdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "PK": {
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet",
+          "9": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "DSS": {
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "7": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "BM": {
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "7": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "VSE": {
+      "maandag": {
+        "uren": {
+          "3": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet",
+          "9": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      }
+    },
+    "VDBL": {
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      }
+    },
+    "VDPN": {
+      "maandag": {
+        "uren": {
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet",
+          "9": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      }
+    },
+    "OM": {
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "5": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet"
+        },
+        "afwezig": false
+      }
+    },
+    "RSA": {
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "6": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "6": "bezet",
+          "7": "bezet"
+        },
+        "afwezig": false
+      },
+      "maandag": {
+        "uren": {
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet"
+        },
+        "afwezig": false
+      }
+    },
+    "SOL": {
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "4": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      }
+    },
+    "NM": {
+      "maandag": {
+        "uren": {
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet",
+          "9": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "ZNM": {
+      "maandag": {
+        "uren": {
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet",
+          "9": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "3": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "DCI": {
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "3": "bezet",
+          "4": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "2": "bezet",
+          "4": "bezet",
+          "6": "bezet"
+        },
+        "afwezig": false
+      },
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      }
+    },
+    "VRM": {
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet",
+          "9": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      }
+    },
+    "LY": {
+      "maandag": {
+        "uren": {
+          "6": "bezet",
+          "8": "bezet",
+          "9": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {},
+        "afwezig": true
+      },
+      "donderdag": {
+        "uren": {},
+        "afwezig": true
+      },
+      "vrijdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "DCA": {
+      "dinsdag": {
+        "uren": {
+          "2": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "maandag": {
+        "uren": {},
+        "afwezig": true
+      },
+      "donderdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "DZP": {
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "RK": {
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "3": "bezet",
+          "4": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "maandag": {
+        "uren": {},
+        "afwezig": true
+      },
+      "woensdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "SA": {
+      "dinsdag": {
+        "uren": {
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet",
+          "9": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "5": "bezet"
+        },
+        "afwezig": false
+      },
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "6": "bezet",
+          "7": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      }
+    },
+    "DPE": {
+      "maandag": {
+        "uren": {
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet",
+          "9": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      }
+    },
+    "DHV": {
+      "maandag": {
+        "uren": {
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "4": "bezet",
+          "6": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "3": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      }
+    },
+    "FA": {
+      "donderdag": {
+        "uren": {
+          "2": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet"
+        },
+        "afwezig": false
+      }
+    },
+    "MBO": {
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "ME": {
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "4": "bezet",
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "4": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "maandag": {
+        "uren": {},
+        "afwezig": true
+      },
+      "woensdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "DMG": {
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      }
+    },
+    "VDA": {
+      "dinsdag": {
+        "uren": {
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "5": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "maandag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "STL": {
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "3": "bezet",
+          "5": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "VHL": {
+      "maandag": {
+        "uren": {
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "2": "bezet",
+          "3": "bezet",
+          "5": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "5": "bezet",
+          "7": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet",
+          "9": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      }
+    },
+    "CG": {
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet",
+          "9": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "HS": {
+      "dinsdag": {
+        "uren": {
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "9": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "5": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "VDLC": {
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "CJ": {
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "5": "bezet",
+          "7": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "VES": {
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "5": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "5": "bezet",
+          "6": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "3": "bezet",
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "DPV": {
+      "maandag": {
+        "uren": {
+          "2": "bezet",
+          "5": "bezet",
+          "6": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "3": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "5": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "4": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "DBR": {
+      "dinsdag": {
+        "uren": {
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "3": "bezet",
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "BS": {
+      "maandag": {
+        "uren": {
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "7": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "3": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "4": "bezet",
+          "5": "bezet"
+        },
+        "afwezig": false
+      }
+    },
+    "HE": {
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet",
+          "9": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "BI": {
+      "dinsdag": {
+        "uren": {
+          "5": "bezet",
+          "6": "bezet",
+          "8": "bezet",
+          "9": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "3": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "4": "bezet",
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      }
+    },
+    "ZBI": {
+      "dinsdag": {
+        "uren": {
+          "5": "bezet",
+          "6": "bezet",
+          "8": "bezet",
+          "9": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "3": "bezet",
+          "6": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "VDBH": {
+      "maandag": {
+        "uren": {
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "4": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {},
+        "afwezig": true
+      },
+      "woensdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "VEJ": {
+      "maandag": {
+        "uren": {
+          "2": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet",
+          "9": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "2": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet",
+          "9": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "2": "bezet",
+          "4": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "MB": {
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "5": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet",
+          "9": "bezet"
+        },
+        "afwezig": false
+      },
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "7": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "VDVJ": {
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "5": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "5": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "5": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "VSA": {
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "VMOA": {
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "4": "bezet",
+          "5": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "maandag": {
+        "uren": {},
+        "afwezig": true
+      },
+      "woensdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "LT": {
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "7": "bezet",
+          "8": "bezet",
+          "9": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "ZLT": {
+      "maandag": {
+        "uren": {
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "7": "bezet",
+          "8": "bezet",
+          "9": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "NA": {
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "5": "bezet",
+          "6": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "6": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "VHE": {
+      "dinsdag": {
+        "uren": {
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet"
+        },
+        "afwezig": false
+      },
+      "maandag": {
+        "uren": {},
+        "afwezig": true
+      },
+      "woensdag": {
+        "uren": {},
+        "afwezig": true
+      },
+      "vrijdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "VA": {
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "VT": {
+      "vrijdag": {
+        "uren": {
+          "5": "bezet",
+          "6": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet"
+        },
+        "afwezig": false
+      },
+      "maandag": {
+        "uren": {
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "4": "bezet",
+          "7": "bezet",
+          "8": "bezet",
+          "9": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "3": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet",
+          "9": "bezet"
+        },
+        "afwezig": false
+      }
+    },
+    "LE": {
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "maandag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "VEV": {
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "7": "bezet"
+        },
+        "afwezig": false
+      }
+    },
+    "CON": {
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "6": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet",
+          "9": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "NS": {
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "6": "bezet",
+          "8": "bezet",
+          "9": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet",
+          "9": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "3": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "VDEST": {
+      "dinsdag": {
+        "uren": {
+          "2": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "7": "bezet",
+          "8": "bezet",
+          "9": "bezet"
+        },
+        "afwezig": false
+      },
+      "maandag": {
+        "uren": {
+          "6": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "SI": {
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "5": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet"
+        },
+        "afwezig": false
+      },
+      "maandag": {
+        "uren": {},
+        "afwezig": true
+      },
+      "dinsdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "WK": {
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "5": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "SS": {
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "6": "bezet",
+          "7": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "CN": {
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "7": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "DLO": {
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "3": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "ZVGDJ": {
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet",
+          "9": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "5": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "6": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "WZ": {
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "7": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "7": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "5": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      }
+    },
+    "NAN": {
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "4": "bezet",
+          "5": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "7": "bezet"
+        },
+        "afwezig": false
+      }
+    },
+    "DCS": {
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "VDG": {
+      "maandag": {
+        "uren": {
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "5": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "DMJ": {
+      "maandag": {
+        "uren": {
+          "2": "bezet",
+          "3": "bezet",
+          "5": "bezet",
+          "8": "bezet",
+          "9": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      }
+    },
+    "HAI": {
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "maandag": {
+        "uren": {
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "6": "bezet",
+          "7": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {},
+        "afwezig": true
+      },
+      "vrijdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "ZLJ": {
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "9": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "SAM": {
+      "maandag": {
+        "uren": {
+          "2": "bezet",
+          "3": "bezet",
+          "5": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "2": "bezet",
+          "3": "bezet",
+          "7": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet",
+          "9": "bezet"
+        },
+        "afwezig": false
+      }
+    },
+    "GM": {
+      "maandag": {
+        "uren": {
+          "3": "bezet",
+          "4": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {},
+        "afwezig": true
+      },
+      "donderdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "LMA": {
+      "maandag": {
+        "uren": {
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet",
+          "9": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "2": "bezet",
+          "3": "bezet",
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "MM": {
+      "dinsdag": {
+        "uren": {
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "maandag": {
+        "uren": {
+          "3": "bezet",
+          "4": "bezet",
+          "7": "bezet",
+          "8": "bezet",
+          "9": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "TE": {
+      "dinsdag": {
+        "uren": {
+          "4": "bezet",
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet",
+          "9": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "maandag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      }
+    },
+    "ZSAM": {
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "2": "bezet",
+          "4": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "maandag": {
+        "uren": {},
+        "afwezig": true
+      },
+      "vrijdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "DVA": {
+      "maandag": {
+        "uren": {
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "5": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      }
+    },
+    "CE": {
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "7": "bezet"
+        },
+        "afwezig": false
+      },
+      "maandag": {
+        "uren": {},
+        "afwezig": true
+      },
+      "dinsdag": {
+        "uren": {},
+        "afwezig": true
+      },
+      "woensdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "DAD": {
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "5": "bezet",
+          "6": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "maandag": {
+        "uren": {
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      }
+    },
+    "VDESA": {
+      "maandag": {
+        "uren": {
+          "3": "bezet",
+          "4": "bezet",
+          "5": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet",
+          "9": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "MI": {
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {
+          "2": "bezet",
+          "3": "bezet",
+          "6": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "5": "bezet",
+          "7": "bezet",
+          "8": "bezet"
+        },
+        "afwezig": false
+      },
+      "maandag": {
+        "uren": {},
+        "afwezig": true
+      },
+      "woensdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "TS": {
+      "dinsdag": {
+        "uren": {
+          "5": "bezet",
+          "7": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "maandag": {
+        "uren": {
+          "3": "bezet"
+        },
+        "afwezig": false
+      },
+      "donderdag": {
+        "uren": {},
+        "afwezig": true
+      },
+      "vrijdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "MARS": {
+      "vrijdag": {
+        "uren": {
+          "2": "bezet",
+          "3": "bezet"
+        },
+        "afwezig": false
+      },
+      "maandag": {
+        "uren": {
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {},
+        "afwezig": true
+      },
+      "donderdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "ZTechn": {
+      "vrijdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "3": "bezet"
+        },
+        "afwezig": false
+      },
+      "maandag": {
+        "uren": {},
+        "afwezig": true
+      },
+      "dinsdag": {
+        "uren": {},
+        "afwezig": true
+      },
+      "donderdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "AE": {
+      "maandag": {
+        "uren": {
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet",
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {},
+        "afwezig": true
+      },
+      "donderdag": {
+        "uren": {},
+        "afwezig": true
+      },
+      "vrijdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    },
+    "JL": {
+      "maandag": {
+        "uren": {
+          "3": "bezet",
+          "4": "bezet"
+        },
+        "afwezig": false
+      },
+      "woensdag": {
+        "uren": {
+          "1": "bezet",
+          "2": "bezet"
+        },
+        "afwezig": false
+      },
+      "dinsdag": {
+        "uren": {},
+        "afwezig": true
+      },
+      "donderdag": {
+        "uren": {},
+        "afwezig": true
+      },
+      "vrijdag": {
+        "uren": {},
+        "afwezig": true
+      }
+    }
+  },
+  "days": [
+    "maandag",
+    "dinsdag",
+    "woensdag",
+    "donderdag",
+    "vrijdag"
+  ],
+  "hours": [
+    {
+      "uur": 1,
+      "start": "08:35",
+      "eind": "09:25"
+    },
+    {
+      "uur": 2,
+      "start": "09:25",
+      "eind": "10:15"
+    },
+    {
+      "uur": 3,
+      "start": "10:35",
+      "eind": "11:25"
+    },
+    {
+      "uur": 4,
+      "start": "11:25",
+      "eind": "12:15"
+    },
+    {
+      "uur": 5,
+      "start": "12:15",
+      "eind": "13:05"
+    },
+    {
+      "uur": 6,
+      "start": "13:05",
+      "eind": "13:55"
+    },
+    {
+      "uur": 7,
+      "start": "13:55",
+      "eind": "14:45"
+    },
+    {
+      "uur": 8,
+      "start": "14:45",
+      "eind": "15:35"
+    },
+    {
+      "uur": 9,
+      "start": "15:40",
+      "eind": "16:30"
+    }
+  ],
+  "meetingTimes": {
+    "maandag": "15:40",
+    "dinsdag": "15:40",
+    "woensdag": "12:20",
+    "donderdag": "15:40",
+    "vrijdag": "15:40"
+  },
+  "groups": [],
+  "configUrl": "",
+  "selected": {
+    "vrij": [],
+    "optim": []
+  }
+}
